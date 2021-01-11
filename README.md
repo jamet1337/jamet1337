@@ -17,9 +17,9 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/amat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jamet1337" height="30" width="40" /></a>
-<a href="https://fb.com/mazipanneh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jamet1337" height="30" width="40" /></a>
-<a href="https://wa.me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Ahmat Badali" height="30" width="40" /></a>
+<a href="https://twitter.com/jamet1337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jamet1337" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmat.badali.334" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jamet1337" height="30" width="40" /></a>
+<a href="https://wa.me/6285654869732" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Ahmat Badali" height="30" width="40" /></a>
 <a href="https://instagram.com/Jamet.1337" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jamet1337" height="30" width="40" /></a>
 <a href="http://jam3t.web1337.net" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="jam3t.web1337.net" height="30" width="40" /></a>
 </p>
