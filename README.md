@@ -12,7 +12,6 @@
 -  🇮🇩 I'm from Indonesia 
 -  🗓️ 15 y.o.
 -  👨🏽‍💻 </.Heker .App Dev .Web Dev>
--  🌍 jam3t.web1337.net
 
 ### Connect with me:
 
