@@ -1,5 +1,5 @@
 # Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="center"><a href="https://github.com/jamet1337"><img src="https://i.ibb.co/tb5qqfF/FB-IMG-16131284832799765.jpg" height='195' alt="jamet profile">
+<p align="center"><a href="https://github.com/jamet1337"><img src="https://avatars.githubusercontent.com/u/73576925?v=4" height='195' alt="jamet profile">
 <a href="https://github.com/jamet1337"><img title="jamet1337" src="https://github-readme-stats.vercel.app/api?username=jamet1337&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 <a href="https://github.com/jamet1337"><img title="jamet1337" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamet1337&layout=compact&theme=nightowl"></a><br>
 <a href="https://github.com/jamet1337"><img title="jamet1337" src="https://komarev.com/ghpvc/?username=jamet1337&label=Views&color=blue&style=plastic"></a>
