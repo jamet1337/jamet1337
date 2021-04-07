@@ -10,7 +10,7 @@
   <summary><b>CONTACT ME</b></summary><br>
 
   - <a href="https://www.facebook.com/ahmat.badali.334"/><img alt="jamet1337" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Add</b></a><br>
-  - <a href="https://t.me/Rizky1504"/><img alt="jamet1337" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsApp.svg" /><b>Chat</b></a><br>
+  - <a href="https://t.me/Rizky1504"/><img alt="jamet1337" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><b>Chat</b></a><br>
   - <a href="https://instagram.com/Jamet.1337"/><img alt="jamet1337" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Follow</b></a>
   </p>
 </details>
